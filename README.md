@@ -1,4 +1,4 @@
-
+ <h1><strong>Linene</strong> — Simple Note-Taking App</h1>
 
   <div class="section">
     <h2><strong>Features</strong></h2>
